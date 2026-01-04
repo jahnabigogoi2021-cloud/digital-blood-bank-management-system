@@ -1,4 +1,10 @@
 {
+  "name": "digital-blood-bank-management-system",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.1.0"
